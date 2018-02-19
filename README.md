@@ -25,6 +25,8 @@ python -m pip install jupyter
 
 (From https://jupyter.org/install)
 
+If you have problems, call us over.
+
 ## Your first notebook
 
 To get your first taste of iPython, clone this repository onto your computer.
@@ -40,3 +42,8 @@ In your terminal.
 ![Screenshot of your terminal running `jupyter notebook`](img/terminal-screenshot.png)
 
 You'll see a web browser window open with a list of your files. Open up `Example.ipynb` and follow along.
+
+## Other useful stuff
+
+* If you'll be installing packages, be sure you make a virtual environment first. [Here's how to do that.](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments)
+*
