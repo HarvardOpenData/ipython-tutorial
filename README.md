@@ -29,4 +29,8 @@ Then run:
 jupyter notebook
 ```
 
-In your terminal. 
+In your terminal.
+
+![Screenshot of your terminal running `jupyter notebook`](img/terminal-screenshot.png)
+
+You'll see a web browser window open with a list of your files. Open up `Example.ipynb`.
