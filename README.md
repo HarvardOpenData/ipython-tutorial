@@ -23,13 +23,15 @@ brew install python
 Once you have Python, run:
 
 ```
-python -m pip install --upgrade pip
-python -m pip install jupyter
+python2 -m pip install --upgrade pip
+python2 -m pip install jupyter
 ```
 
 (From https://jupyter.org/install)
 
-If you have problems, call us over.
+Don't use `python` for this on Macs - that's the crappy pre-installed version of Python that comes with macOS. Instead, use `python2`, which was installed by Homebrew.
+
+Still have problems? Call us over.
 
 ## Your first notebook
 
@@ -50,3 +52,4 @@ You'll see a web browser window open with a list of your files. Open up `Example
 ## Other useful stuff
 
 * If you'll be installing packages, be sure you make a virtual environment first. [Here's how to do that.](https://packaging.python.org/tutorials/installing-packages/#creating-virtual-environments)
+* We recommend installing a few other packages, which will probably come in hands. Run `pip2 install pandas` and `pip2 install numpy` to get 2 useful packages.
