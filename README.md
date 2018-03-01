@@ -14,9 +14,13 @@ We'll be using Python in this tutorial, so if you aren't familiar, [use this tut
 
 ## Getting started
 
-Your computer should come with Python pre-installed. (If not, ask us how to do it.)
+If you're using a Mac, get [Homebrew](https://brew.sh/). Fire up your terminal (also known as a *command line* or *command prompt*) and run the following command to install iPython:
 
-Fire up your terminal (also known as a *command line* or *command prompt*) and run the following commands to install iPython:
+```
+brew install python
+```
+
+Once you have Python, run:
 
 ```
 python -m pip install --upgrade pip
