@@ -19,6 +19,10 @@ If you're using a Mac, get [Homebrew](https://brew.sh/). Fire up your terminal (
 ```
 brew install python
 ```
+Now, install pip:
+```
+sudo easy_install pip
+```
 
 Once you have Python, run:
 
