@@ -51,7 +51,7 @@ In your terminal.
 
 ![Screenshot of your terminal running `jupyter notebook`](img/terminal-screenshot.png)
 
-You'll see a web browser window open with a list of your files. Open up `Example.ipynb` and follow along.
+You'll see a web browser window open with a list of your files. Open up `Bootcamp.ipynb` and follow along.
 
 ## Other useful stuff
 
